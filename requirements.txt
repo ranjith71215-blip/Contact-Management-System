@@ -1,0 +1,11 @@
+# requirements.txt
+# Contact Management System dependencies
+
+# Python Standard Library modules (no external installation required)
+json
+re
+csv
+os
+
+# Minimum Python version required
+python>=3.8
